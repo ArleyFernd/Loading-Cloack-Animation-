@@ -1,2 +1,2 @@
-# Loading-Cloack-Animation-
-A animated cloack icon to use in loading screens or requisitions 
+# Loading-Clock-Animation-
+A animated clock icon to use in loading screens or requisitions 
